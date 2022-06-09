@@ -1,4 +1,10 @@
 envs {
   envs = [
+    {
+      name = "Empty state check"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
   ]
 }

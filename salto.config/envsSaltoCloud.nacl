@@ -1,4 +1,8 @@
 envs {
   envsCloud = [
+    {
+      uuid = "3e47d358-0db4-4468-9c1e-4a9aadd815e4"
+      folderName = "Empty state check"
+    },
   ]
 }
